@@ -1,3 +1,25 @@
+npx create-next-app@latest ./
+Typescript - Yes
+ESLint - No
+Tailwind CSS - Yes
+src/ - No
+App Router - Yes
+alias - No
+
+npm i @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
+npm i @grafbase/sdk
+
+Plugin VSCode ES7 + React snippets
+Tailwind CSS IntelliSense
+
+VIdeo - Build and Deploy a Full Stack Next.js 13 App | React, Next JS 13, TypeScript, Tailwind CSS
+https://www.youtube.com/watch?v=986hztrfaSQ&ab_channel=JavaScriptMastery
+
+Sign up - Grafbase https://grafbase.com/
+https://www.npmjs.com/package/@grafbase/sdk
+npx grafbase init --config-format typescript
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
